@@ -17,5 +17,6 @@ do
   cd $startdir"/"$d
   #modify each file
   sed -i '' 's/mean/median/g' analyze.py
-  git commit -m "new average method"
+  git commit -a -m "new average method"
+  git push
 done
