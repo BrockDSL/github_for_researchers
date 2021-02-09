@@ -1,0 +1,25 @@
+
+scratch
+git remote add upstream https://github.com/tribaric/test_for_workshop.git
+git remote -v
+git fetch upstream
+git branch -va
+git merge upstream/master
+git checkout main
+
+feb1 p2
+git clone https://github.com/tribaric/test_for_workshop.git
+cd test_for_workshop
+git checkout -b new_average2
+nano analyze.py
+git commit -a -m "new average technique"
+git push
+
+
+feb 3 (shared access) This will work!
+
+git clone https://github.com/tribaric/test_for_workshop.git
+cd test_for_workshop
+sed -i '' 's/mean/median/g' analyze.py
+git commit -a -m "New average method"
+git push
