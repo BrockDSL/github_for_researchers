@@ -1,1 +1,2 @@
 https://github.com/tribaric/test_for_workshop.git
+https://github.com/DanielBrett/workshop-test-repo
