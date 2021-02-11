@@ -1,7 +1,7 @@
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
-https://investigating-archiving-git.gitlab.io/about/
+https://github.com/bkruitbosch/github_workshop.git
+https://github.com/m-earle/DSLworkshop.git
+https://github.com/zsmilliepy/my_research_project.git
+https://github.com/rosst777/firstone.git
+https://github.com/sahrol-azmi/gitnew.git
+https://github.com/mali0303/GitHub_for_Researchers_Workhop.git
+https://github.com/mibiling/workshop.git
