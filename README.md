@@ -21,6 +21,8 @@ It follows a scenario that goes through a few stages:
 ))
 4. Adding more data that you've collected to your repository ([PDF](https://raw.githubusercontent.com/BrockDSL/github_for_researchers/master/p4.pdf
 ))
+5. Forking another repository to make it our own ([PDF](https://raw.githubusercontent.com/BrockDSL/github_for_researchers/master/p5.pdf
+))
 
 ## Prerequisites
 The only thing you'll need for the session is an account on [GitHub](https://github.com/join). We'll be just using the web interface, so no extra software needs to be installed.
