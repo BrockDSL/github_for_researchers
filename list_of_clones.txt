@@ -1,10 +1,1 @@
-https://github.com/tribaric/Test_Repository.git
-https://github.com/DanielBrett/Test-Repo-For-GFR-Workshop.git
-https://github.com/SapnaData/zoomEx.git
-https://github.com/pranamg/Test_repository.git
-https://github.com/JessLinzel/practice-repository.git
 https://github.com/telhoss27/test-repo-.git
-https://github.com/Drew30/Workshop_ExpBU_2021.git
-https://github.com/atwele/Workshop_Repository.git
-https://github.com/IanDuncanGordon/Test_Repository.git
-https://github.com/umwoolly/Test_Repository.git
