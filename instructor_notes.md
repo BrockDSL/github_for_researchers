@@ -6,7 +6,7 @@ we are cloning from elbtronic account
 open terminal in folder
 
 ## P1
-https://raw.githubusercontent.com/BrockDSL/github_for_researchers/master/p1.pdf
+`https://raw.githubusercontent.com/BrockDSL/github_for_researchers/master/p1.pdf`
 
 Check Invites to github repo
 

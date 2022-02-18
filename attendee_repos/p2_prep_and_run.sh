@@ -16,6 +16,7 @@ for d in $(ls -d **/)
 do
   cd $startdir"/"$d
   #modify each file
+  git pull
   sed -i '' 's/mean/median/g' analyze.py
   git commit -a -m "new average method"
   git push
