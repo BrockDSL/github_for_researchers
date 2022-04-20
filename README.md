@@ -1,5 +1,5 @@
 
-![splash image](splash.png)
+![Workshop Splash](Github-For-Researchers.png)
 
 # Github for Researchers
 
