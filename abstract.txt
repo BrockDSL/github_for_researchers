@@ -1,0 +1,5 @@
+You’ve probably heard of Github and seen it in the results of Google Searches. But what exactly is it? This 2-hour session will introduce participants to the basics of GitHub, and how it can be used in many different ways to support your research, including version control, publishing content on the internet and collaborating with others.
+
+Participants will require a (free) Github account to participate: https://github.com/join
+
+This workshop will be recorded and a copy of the recording will be provided to attendees. The recording of this workshop may also be shared publicly
